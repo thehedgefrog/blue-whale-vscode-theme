@@ -1,0 +1,38 @@
+{
+    "name": "blue-whale",
+    "displayName": "Blue Whale",
+    "description": "A dark theme based on GitHub with more blue tones.",
+    "version": "0.1.4",
+    "publisher": "thehedgefrog",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/thehedgefrog/blue-whale-vscode-theme"
+    },
+    "keywords": [
+        "Theme",
+        "Dark Theme",
+        "Blue Whale",
+        "Black Theme"
+    ],
+    "galleryBanner": {
+        "color": "black",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "whale.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Blue Whale",
+                "uiTheme": "vs-dark",
+                "path": "./themes/blue-whale-color-theme.json"
+            }
+        ]
+    }
+}
