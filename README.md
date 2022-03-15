@@ -1,9 +1,9 @@
 # Blue Whale
 
 
-![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/thehedgefrog.bluewhale)
-![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/thehedgefrog.bluewhale)
-![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/thehedgefrog.bluewhale)
+![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/thehedgefrog.blue-whale)
+![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/thehedgefrog.blue-whale)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/thehedgefrog.blue-whale)
 
 
 A Visual Studio Code theme inspired by the GitHub theme, mixed with deep blue tones.
