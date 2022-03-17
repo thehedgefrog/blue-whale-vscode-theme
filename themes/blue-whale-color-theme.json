@@ -1981,7 +1981,7 @@
     "panelTitle.activeForeground": "#c9d1d9",
     "panelTitle.inactiveForeground": "#8b949e",
     "panelInput.border": "#30363d",
-    "terminal.foreground": "#8b949e",
+    "terminal.foreground": "#c9d1d9",
     "terminal.ansiBlack": "#484f58",
     "terminal.ansiRed": "#ff7b72",
     "terminal.ansiGreen": "#3fb950",
