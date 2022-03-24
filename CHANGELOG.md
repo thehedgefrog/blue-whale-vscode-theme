@@ -1,9 +1,17 @@
 # Change Log
 
-All notable changes to the "deep-sea-black" extension will be documented in this file.
+## [v0.2.0]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Darkened border colours to make for a smoother transition
 
-## [Unreleased]
+## [v0.1.6]
 
-- Initial release
+- Enhanced contrast of text in terminal
+
+## [v0.1.5]
+
+- Tweaks to text colouring
+
+## [v0.1.4]
+
+- Initial public release
